@@ -49,6 +49,8 @@ import (
 	_ "github.com/vmware/govmomi/govc/disk/snapshot"
 	_ "github.com/vmware/govmomi/govc/dvs"
 	_ "github.com/vmware/govmomi/govc/dvs/portgroup"
+	_ "github.com/vmware/govmomi/govc/eam/agency"
+	_ "github.com/vmware/govmomi/govc/eam/agent"
 	_ "github.com/vmware/govmomi/govc/env"
 	_ "github.com/vmware/govmomi/govc/events"
 	_ "github.com/vmware/govmomi/govc/export"
